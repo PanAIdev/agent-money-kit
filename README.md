@@ -2,9 +2,9 @@
 
 ### Make your first money with AI agents in 7 days — without building an app or waiting for “the perfect niche.”
 
-**Intro price: $19** (regular $29)
+**Intro price: $19** (regular $29) — money-sprint core
 
-A practical pack of sprint plans, outreach scripts, offer templates, and 15 agent prompts for freelancers and digital-product sellers who want cash this month — not another course.
+Turn AI agents into income: freelance, digital products, and outreach that actually converts. A practical pack of sprint plans, outreach scripts, offer templates, and 15 agent prompts for freelancers and digital-product sellers who want cash this month — not another course.
 
 ---
 
@@ -21,11 +21,12 @@ Instant digital download (PDF + Markdown ZIP).
 
 ## What's inside
 
-- **7-Day Money Sprint** — Day-by-day plan: research → offer → outreach → close
+- **7-Day Money Sprint** — Day-by-day plan: research → offer → outreach → close (the $19 core)
 - **Digital Product Playbook** — Ship and sell a digital product in 48 hours
 - **10 outreach scripts** — Cold email, LinkedIn, and Twitter/X — ready to personalize
 - **Offer One-Pager + Pricing Sheet** — Clarify what you sell and stop guessing on price
 - **15 agent prompts** — Research, listing copy, cold email, content, and customer interviews
+- **Bonus: VibeDeck playables** — Curated click-to-play examples to study hooks, loops, and shareability — [vibedeck-plum.vercel.app](https://vibedeck-plum.vercel.app)
 
 Plain Markdown + a compiled PDF. No install. Works with ChatGPT, Claude, Cursor agents, or any capable LLM.
 
@@ -45,6 +46,7 @@ Preview Day 1 of the sprint (rules, offer lock, and the starter prompt) before y
 - Freelancers who want AI to speed research, proposals, and delivery — without sounding like spam
 - Creators who want to sell a digital product *this week*, not someday
 - Operators who need outreach scripts and prompts that convert
+- Anyone who already uses ChatGPT / Claude / Cursor-style agents and wants a money-first playbook
 
 **Not for:** passive-income fantasies or “set and forget” automation. This kit assumes you will ship and talk to humans.
 
